@@ -1,11 +1,16 @@
 _repo: The-omnipotent-self-a-study-in-self-deception-and-self-cure_66496
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66496-h/images/cover.jpg
 creator:
   author:
     agent_name: Bousfield, Paul
     gutenberg_agent_id: '53840'
     url: http://www.gutenberg.org/2009/agents/53840
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66496#The-omnipotent-self-a-study-in-self-deception-and-self-cure
 gutenberg_issued: '2021-10-08'
 identifiers:
   gutenberg: '66496'
